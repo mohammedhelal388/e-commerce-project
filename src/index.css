@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.bakc :hover{
+  background-color: aqua;
+}
+
+#cart :hover{
+  border-radius:10px;
+  background-color: lightblue;
+}
+
+#list :hover{
+  border-radius:10px;
+  background-color: lightblue;
+}
+
+#text{
+  
+  color: lightblue;
+}
+
+#buy  :hover{
+  border-radius:10px;
+  background-color: lightblue;
+}
+
+#img:hover{
+  border-radius:70px;
+
+}
+
+#nav :hover{
+  color: lightblue;
+}
